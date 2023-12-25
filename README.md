@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SPDocwriter
-- 👀 I’m interested in Technical Documentation.
+- 👀 I’m adept at writing Technical Documentation, that is Technical Writing.
 - 🌱 I’m currently learning API Documentation, REST APIs.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on writing documentation
 - 📫 How to reach me ...
 
 <!---
